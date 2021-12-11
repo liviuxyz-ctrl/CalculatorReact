@@ -1,2 +1,3 @@
 ﻿# Calculator
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/q1l091aGJFU.jpg)](https://www.youtube.com/watch?v=q1l091aGJFU&t=643s)
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
