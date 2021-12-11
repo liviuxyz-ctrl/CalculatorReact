@@ -1,2 +1,4 @@
 ﻿# Calculator
-[![Alt text](https://img.youtube.com/vi/q1l091aGJFU&t=643s/0.jpg)](https://www.youtube.com/watch?v=q1l091aGJFU&t=643s)
+![](http://damien.pobel.fr/images/youtube-video-github.gif)
+
+See also [Embed a Youtube video in Github markdown](http://damien.pobel.fr/post/youtube-video-github/)
