@@ -1,2 +1,2 @@
 ﻿# Calculator
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<iframe width="500" height="300" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
